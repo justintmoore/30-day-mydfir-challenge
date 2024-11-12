@@ -1,5 +1,7 @@
 ## Objective
-This is my first cybersecurity project, inspired by a video walkthrough from the MYDFIR YouTube channel. While this is a guided walkthrough, my goal is to not only follow along but to rebuild the ELK stack entirely from scratch, speaking to each part as I go. I aim to fully understand and explain every component, documenting this hands-on journey to establish a strong foundation in cybersecurity skills.
+This is my first cybersecurity project, inspired by a video walkthrough from the MYDFIR YouTube channel. While this is a guided walkthrough, my goal is to not only follow along but to rebuild the ELK stack entirely from scratch, speaking to each part as I go. I aim to fully understand and explain every component, documenting this hands-on journey to establish a strong foundation in cybersecurity skills.  
+
+There are many similarities to Splunk, and the benefits are centralized logging, customized ingestions, visualizations, scalability,  many intergrations and rich community.
 
 ## Day 1  
 - Created a logical diagram where I utlize cloud infrastructure from VULTR. Within this infrastructure I have a virtual private cloud that houses 5 servers.
@@ -28,9 +30,9 @@ This is my first cybersecurity project, inspired by a video walkthrough from the
 ### Kibana
 - Kibana is a analytics and visualization tool. Adds an UI experience allows drag and drop to build out custom dashboards.
 - Through data exploration/discover tab it allows you to query logs using ESQL (elasticsearch query language), maps for geospacial locations, ML anomaly detection etc.
-  
 
-  There are many similarities to Splunk, and the benefits are centralized logging, customized ingestions, visualizations, scalability,  many intergrations and rich community.
+
+
   
   <!--
   - https://www.notion.so/justinmoore/30-Day-DFIR-Challenge-13778832b68e804e9dd2cd2d9399331c
