@@ -27,9 +27,9 @@ This is my first cybersecurity project, inspired by a video walkthrough from the
 
 ### Kibana
 - Kibana is a analytics and visualization tool. Adds an UI experience allows drag and drop to build out custom dashboards.
- - Through data exploration/discover tab it allows you to query logs using ESQL (elasticsearch query language), maps for geospacial locations, ML anomaly detection etc.
+- Through data exploration/discover tab it allows you to query logs using ESQL (elasticsearch query language), maps for geospacial locations, ML anomaly detection etc.
 
-There are many similarities to Splunk, and the benefits are centralized logging, customized ingestions, visualizations, scalability,  many intergrations and rich community.
+  There are many similarities to Splunk, and the benefits are centralized logging, customized ingestions, visualizations, scalability,  many intergrations and rich community.
   
   <!--
   - https://www.notion.so/justinmoore/30-Day-DFIR-Challenge-13778832b68e804e9dd2cd2d9399331c
