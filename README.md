@@ -31,6 +31,7 @@ There are many similarities to Splunk, and the benefits are centralized logging,
 - Kibana is a analytics and visualization tool. Adds an UI experience allows drag and drop to build out custom dashboards.
 - Through data exploration/discover tab it allows you to query logs using ESQL (elasticsearch query language), maps for geospacial locations, ML anomaly detection etc.
 
+## Day 3
 
 
   
