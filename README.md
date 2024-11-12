@@ -13,3 +13,12 @@ This is my first cybersecurity project, inspired by a video walkthrough from the
 - We have a gateway that leads out to the external network, where there will be a SOC analyst laptop connected to Elastic/Kibana via GUI. On the other end lies an attack laptop (Kali) and a C2 server.
   <img src="https://github.com/user-attachments/assets/fea64ba9-a8c2-47d5-b43a-1a680bf06e3e" height="70%" width="70%" alt="logical-diagram"/>
 
+  ## Day 2
+  Today was a introduction into the ELK stack, which I had no prior knowledge of before I started.  It consists of Elasticsearch, Logstash, and Kiabana
+
+  ### Elasticsearch
+  - At it's core elasticsearch is a database that is used to store logs such windows event logs, firewall logs, sys logs, etc. Allows you to query data using it's own query language ESQL or elasticsearch query language.  
+  - Uses Restful APIs and json. APIs is software that communicates with other software........
+  
+  <!--
+  - https://www.notion.so/justinmoore/30-Day-DFIR-Challenge-13778832b68e804e9dd2cd2d9399331c
